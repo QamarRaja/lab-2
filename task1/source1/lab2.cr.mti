@@ -1,0 +1,15 @@
+{D:/PDF/4th SEMESTER/DSD LAB/LAB 2/source/src.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/PDF/4th SEMESTER/DSD LAB/LAB 2/source/src.sv}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module full_adder
+
+Top level modules:
+	full_adder
+
+} {} {}} {D:/PDF/4th SEMESTER/DSD LAB/LAB 2/source/testbench.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/PDF/4th SEMESTER/DSD LAB/LAB 2/source/testbench.sv}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module full_adder_tb
+
+Top level modules:
+	full_adder_tb
+
+} {} {}}

@@ -1,0 +1,89 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/questasim64_10.7c/examples
+T_opt
+!s110 1707300102
+VDFGo4803E9P8C<z6To;EW2
+Z1 04 10 7 work full_adder fast__1 0
+Z2 04 13 4 work full_adder_tb fast 0
+=1-ecf4bb6548ff-65c35506-283-427c
+Z3 o-quiet -auto_acc_if_foreign -work work
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;10.7c;67
+R0
+T_opt1
+!s110 1707300736
+VVkK:EUOeYHCcL@7WU<CcB2
+R2
+=1-ecf4bb6548ff-65c35780-260-370c
+o-quiet -auto_acc_if_foreign -work work +acc
+R4
+n@_opt1
+R5
+T_opt2
+!s110 1707299690
+Vk9F3IcMR9RCezgnG6j<]83
+R1
+R2
+=1-ecf4bb6548ff-65c3536a-201-4ac4
+R3
+R4
+n@_opt2
+R5
+R0
+vfull_adder
+Z6 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z7 !s110 1707300716
+!i10b 1
+!s100 Wob>59fo_QTIQM`i[8^OZ2
+I^WfLFe0`LDO7HC:L49nSk2
+Z8 VDg1SIo80bB@j0V0VzS_@n1
+!s105 src_sv_unit
+S1
+Z9 dD:/PDF/4th SEMESTER/DSD LAB/LAB 2/source
+w1707300525
+8D:/PDF/4th SEMESTER/DSD LAB/LAB 2/source/src.sv
+FD:/PDF/4th SEMESTER/DSD LAB/LAB 2/source/src.sv
+L0 1
+Z10 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z11 !s108 1707300716.000000
+!s107 D:/PDF/4th SEMESTER/DSD LAB/LAB 2/source/src.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/PDF/4th SEMESTER/DSD LAB/LAB 2/source/src.sv|
+!i113 0
+Z12 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+vfull_adder_tb
+R6
+R7
+!i10b 1
+!s100 R7aDTcWT[MZ=1H6_aY[:Z0
+IE47Z:5]=ifHScIjEzHRej3
+R8
+!s105 testbench_sv_unit
+S1
+R9
+w1707300545
+8D:/PDF/4th SEMESTER/DSD LAB/LAB 2/source/testbench.sv
+FD:/PDF/4th SEMESTER/DSD LAB/LAB 2/source/testbench.sv
+L0 1
+R10
+r1
+!s85 0
+31
+R11
+!s107 D:/PDF/4th SEMESTER/DSD LAB/LAB 2/source/testbench.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/PDF/4th SEMESTER/DSD LAB/LAB 2/source/testbench.sv|
+!i113 0
+R12
+R4
